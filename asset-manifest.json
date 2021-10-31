@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Famepilot-assignment/static/css/main.9af107cd.chunk.css",
-    "main.js": "/Famepilot-assignment/static/js/main.59b0b9bc.chunk.js",
-    "main.js.map": "/Famepilot-assignment/static/js/main.59b0b9bc.chunk.js.map",
+    "main.js": "/Famepilot-assignment/static/js/main.0b2b84b2.chunk.js",
+    "main.js.map": "/Famepilot-assignment/static/js/main.0b2b84b2.chunk.js.map",
     "runtime-main.js": "/Famepilot-assignment/static/js/runtime-main.0bb81e22.js",
     "runtime-main.js.map": "/Famepilot-assignment/static/js/runtime-main.0bb81e22.js.map",
     "static/js/2.02e3aea7.chunk.js": "/Famepilot-assignment/static/js/2.02e3aea7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.0bb81e22.js",
     "static/js/2.02e3aea7.chunk.js",
     "static/css/main.9af107cd.chunk.css",
-    "static/js/main.59b0b9bc.chunk.js"
+    "static/js/main.0b2b84b2.chunk.js"
   ]
 }
